@@ -49,7 +49,7 @@ get_header(); ?>
 
 			<?php endif; ?>
 			</main><!-- #main -->
-			<aside class="cold-md-4">
+			<aside class="col-md-4">
 				<?php get_sidebar(); ?>
 			</aside>
 		</div><!-- .row -->
